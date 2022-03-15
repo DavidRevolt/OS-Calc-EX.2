@@ -11,11 +11,7 @@
 #include <sys/random.h>
 
 
-//Name: David Manshari
-//ID: 307892935
 
-//Name: Nir Abadi
-//ID:206172546 
 
 
 //METHODS:
